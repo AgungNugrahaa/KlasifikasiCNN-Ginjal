@@ -1,0 +1,10 @@
+numpy == 2.0.2
+pandas == 2.2.2
+matplotlib == 3.10.0
+seaborn == 0.13.2
+opencv-python
+Pillow
+scikit-learn
+tensorflow == 2.19.0
+tensorflowjs == 4.22.0
+pillow==10.3.0 
