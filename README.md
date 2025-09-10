@@ -21,7 +21,8 @@ Dengan memanfaatkan teknik **deep learning** berbasis Convolutional Neural Netwo
 
 ### Python Libraries
 - streamlit  
-- tensorflow  
+- tensorflow
+- keras
 - numpy
 - Pandas
 - Seaborn
