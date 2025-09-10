@@ -7,13 +7,12 @@ Dengan memanfaatkan teknik **deep learning** berbasis Convolutional Neural Netwo
 ---
 
 ## Dataset  
-- **Dataset Name**: [CT-KIDNEY-DATASET (Kaggle)](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone/code)  
-- **Categories**:  
+- **Dataset**: [CT-KIDNEY-DATASET (Kaggle)](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone/code)  
+- **Kategori**:  
   - Cyst  
   - Normal  
   - Stone  
   - Tumor  
-- **Structure**: Dataset disusun dalam subdirektori per kelas, masing-masing berisi citra CT sesuai label.  
 
 ---
 
