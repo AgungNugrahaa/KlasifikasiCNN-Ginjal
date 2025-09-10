@@ -1,6 +1,6 @@
-## Detection and Classification of Kidney Diseases Using CT-Scanned Images  
+## Deteksi dan Klasifikasi Penyakit Ginjal Menggunakan Gambar CT-Scan  
 
-## Project Description  
+## Deskripsi Projek 
 Proyek ini bertujuan untuk mendeteksi dan mengklasifikasikan penyakit ginjal (**Cyst, Normal, Stone, Tumor**) dari citra CT Scan.  
 Dengan memanfaatkan teknik **deep learning** berbasis Convolutional Neural Network (CNN), aplikasi ini membantu mengotomatisasi proses klasifikasi untuk mendukung tenaga medis dalam diagnosis yang lebih cepat dan akurat.  
 
@@ -17,7 +17,7 @@ Dengan memanfaatkan teknik **deep learning** berbasis Convolutional Neural Netwo
 
 ---
 
-## ⚙️ Requirements  
+## Requirements  
 
 ### Python Libraries
 - streamlit  
